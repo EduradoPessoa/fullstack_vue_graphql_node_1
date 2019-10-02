@@ -1,5 +1,5 @@
 # fullstack_vue_graphql_node_1
-<img src="https://user-images.githubusercontent.com/19197999/66068551-2d1d7780-e524-11e9-9a08-f3d732e854bd.png" width=100> <img src="https://user-images.githubusercontent.com/19197999/66068588-3e668400-e524-11e9-83f1-e4af87b64fb8.png" width=100> <img src="https://user-images.githubusercontent.com/19197999/66068624-4aeadc80-e524-11e9-8180-5ff6b4e1ca66.png" width=100> <img src="https://user-images.githubusercontent.com/19197999/66068624-4aeadc80-e524-11e9-8180-5ff6b4e1ca66.png" width=100>
+<img src="https://user-images.githubusercontent.com/19197999/66068551-2d1d7780-e524-11e9-9a08-f3d732e854bd.png" width=100> <img src="https://user-images.githubusercontent.com/19197999/66068588-3e668400-e524-11e9-83f1-e4af87b64fb8.png" width=100> <img src="https://user-images.githubusercontent.com/19197999/66068624-4aeadc80-e524-11e9-8180-5ff6b4e1ca66.png" width=100> <img src="https://user-images.githubusercontent.com/19197999/66070510-d4e87480-e527-11e9-9d69-010cc758fed7.png" width=100>
 
 ## Project Description
 Series taught by Rodrigo Branas about fullstack, vuejs, graphql and nodejs, we will create a web application that will gather prefixes and suffixes and consult an API to verify if the domains formed by these names are available.
