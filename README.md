@@ -1,5 +1,5 @@
 # fullstack_vue_graphql_node_1
-![](https://user-images.githubusercontent.com/19197999/66068551-2d1d7780-e524-11e9-9a08-f3d732e854bd.png?w=200)
+<img src="https://user-images.githubusercontent.com/19197999/66068551-2d1d7780-e524-11e9-9a08-f3d732e854bd.png" width=100>
 ![](https://user-images.githubusercontent.com/19197999/66068588-3e668400-e524-11e9-83f1-e4af87b64fb8.png?w=200)
 ![](https://user-images.githubusercontent.com/19197999/66068624-4aeadc80-e524-11e9-8180-5ff6b4e1ca66.png?w=200)
 
