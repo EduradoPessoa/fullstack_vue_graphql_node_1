@@ -1,8 +1,6 @@
 # fullstack_vue_graphql_node_1
 [![NPM Version][npm-image]][npm-url]
-
 [![Build Status][travis-image]][travis-url]
-
 [![Downloads Stats][npm-downloads]][npm-url]
 
 ![](https://user-images.githubusercontent.com/19197999/66068551-2d1d7780-e524-11e9-9a08-f3d732e854bd.png?w=100)
