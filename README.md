@@ -9,7 +9,7 @@ Series taught by Rodrigo Branas about fullstack, vuejs, graphql and nodejs, we w
 ### Topics covered
 1. Use LINT to fix developed code;
 2. Visual Code Studio Extensions;
-3. How to insert data into domain array;
+3. How to insert and delete data into domain array;
 4. Vue directives.
 
 ### Application Screen
