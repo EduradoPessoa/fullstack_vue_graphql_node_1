@@ -4,7 +4,7 @@
 ## Project Description
 Series taught by Rodrigo Branas about fullstack, vuejs, graphql and nodejs, we will create a web application that will gather prefixes and suffixes and consult an API to verify if the domains formed by these names are available.
 
-*[Youtube - Rodrigo Branas] (https://youtu.be/zhbOh6zFCuc)
+[Youtube - Rodrigo Branas] (https://youtu.be/zhbOh6zFCuc)
 
 ### Topics covered
 1. Use LINT to fix developed code;
