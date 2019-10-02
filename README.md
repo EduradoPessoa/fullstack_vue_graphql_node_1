@@ -17,7 +17,7 @@ Series taught by Rodrigo Branas about fullstack, vuejs, graphql and nodejs, we w
 ![Application Screen](https://user-images.githubusercontent.com/19197999/66066165-61db0000-e51f-11e9-992b-bcc0ee34900f.png)
 
 
-![Develop Screen](Captura de tela de 2019-10-02 11-45-38.png)
+![Develop Screen](https://user-images.githubusercontent.com/19197999/66070681-2ee93a00-e528-11e9-95e3-77fe45efcc81.png)
 
 ### Contact Info
 ```
